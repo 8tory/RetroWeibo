@@ -1,5 +1,7 @@
 # RetroWeibo
 
+[Deprecated] Retrofit Weibo SDK: https://github.com/8tory/SimpleWeibo
+
 [![Build Status](https://travis-ci.org/8tory/RetroWeibo.svg)](https://travis-ci.org/8tory/RetroWeibo)
 
 ![](art/RetroWeibo.png)
